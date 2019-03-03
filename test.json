@@ -1,0 +1,12 @@
+{
+    "customer": {
+        "pets": [
+            {
+                "petType": "DOG",
+                "color": "BLACK",
+                "weigth": 3.4
+            }
+        ],
+        "priorityCustomer": false
+    }
+}
